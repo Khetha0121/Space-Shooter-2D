@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>spiked_ship_3_small_green.PNG</file>
+        <file>fighter_Sized.png</file>
+        <file>Basehip11_Sized.png</file>
+        <file>SpaceBackground6.png</file>
+        <file>space1_Sized.png</file>
+        <file>Spacebackground6.gif</file>
+        <file>coolgreen2.png</file>
+        <file>space-planet-background-planets-surface-with-craters-stars-comets-dark-space_53562-8705.jpg</file>
+        <file>130-1303740_background-overlay-space-galaxy-planets-stars-fantasy-space.png</file>
+    </qresource>
+</RCC>
