@@ -1,0 +1,1 @@
+Type Shooter is a 2d Educational game developed in c++ qt creator ide. The aim is to teach children how to improve childrens keyboard typing skills whilst keeping them entertained in the form of a GUI based gaming application. Please consult the documentation for more details.
